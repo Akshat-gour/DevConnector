@@ -3,3 +3,4 @@
 .pnp.js
 default.json
 client/node_modules
+production.json
